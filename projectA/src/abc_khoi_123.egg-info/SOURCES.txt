@@ -1,0 +1,10 @@
+README
+setup.py
+abc_khoi_123.egg-info/PKG-INFO
+abc_khoi_123.egg-info/SOURCES.txt
+abc_khoi_123.egg-info/dependency_links.txt
+abc_khoi_123.egg-info/not-zip-safe
+abc_khoi_123.egg-info/top_level.txt
+khoi/__init__.py
+khoi/classB.py
+khoi/core.py

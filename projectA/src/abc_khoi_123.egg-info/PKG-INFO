@@ -1,10 +1,10 @@
 Metadata-Version: 1.0
-Name: abc
-Version: 0.1
+Name: abc-khoi-123
+Version: 0.2
 Summary: Test uploada project
-Home-page: UNKNOWN
-Author: Khoi Ngo
+Home-page: https://github.com/NgoAnhKhoi/core-test
+Author: NgoAnhKhoi
 Author-email: quainhan100@gmail.com
-License: NAK
+License: MIT
 Description: UNKNOWN
 Platform: UNKNOWN

@@ -5,11 +5,11 @@ Created on Jul 28, 2017
 '''
 from setuptools import setup
 
-setup(name='abc',
-      version='0.1',
+setup(name='abc-khoi-123',
+      version='0.2',
       description='Test uploada project',
-      url='',
-      author='khoi.ngo',
+      url='https://github.com/NgoAnhKhoi/core-test',
+      author='NgoAnhKhoi',
       author_email='quainhan100@gmail.com',
       license='MIT',
       packages=['khoi'],
